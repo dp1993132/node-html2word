@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "officegen": "^0.6.0",
+    "puppeteer": "^1.17.0"
+  }
+}
